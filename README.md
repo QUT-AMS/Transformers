@@ -7,19 +7,19 @@ This repository offers a comprehensive introduction to Transformer models, with 
 This repository contains 3 different Transformer projects:
 
 #### 1. Action Recognition
-- **Notebook**: `Action Recognition/Action Recognition.ipynb`
+- **Notebook**: `Action_Recognition/Action_Recognition.ipynb`
 - **Content**: Human action recognition from video or text descriptions
 - **Objective**: Classify different types of human actions using Transformers
 - **Status**: Ready for training
 
 #### 2. Reddit Breakup Stories
-- **Notebook**: `Reddit Breakup stories/Reddit Breakup Stories.ipynb`
+- **Notebook**: `Reddit_Breakup_stories/Reddit_Breakup_Stories.ipynb`
 - **Content**: Text analysis and sentiment classification of breakup stories
 - **Objective**: Analyze emotional content and classify relationship situations
 - **Status**: Ready for analysis
 
 #### 3. YouTube Videos
-- **Notebook**: `YouTube Videos/YouTube Videos.ipynb`
+- **Notebook**: `YouTube_Videos/YouTube_Videos.ipynb`
 - **Content**: Video content analysis and classification
 - **Objective**: Classify YouTube videos based on content and metadata
 - **Status**: Ready for analysis
